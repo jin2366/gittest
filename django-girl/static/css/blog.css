@@ -1,0 +1,27 @@
+UTF-8;
+html{
+    margin: 0;
+    padding:0;
+    height: 100%;
+    width: 100%;
+}
+.title{
+    font-size: ;
+    color: red;
+    font-family: 'lobster', cursive;
+}
+.jumbotron{
+    back-ground: ;
+}
+h2{
+    color: red;
+}
+p{
+    paddng: 20px;
+}
+body{
+    padding: 30px; 
+}
+.new-post{
+    margin: 30px;
+}
